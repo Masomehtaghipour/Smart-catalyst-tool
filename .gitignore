@@ -1,0 +1,13 @@
+*.csv
+*.xlsx
+*.xls
+data/
+data_out/
+datasets/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.ipynb
+*.save
+*.tar.gz
