@@ -1,6 +1,6 @@
-streamlit==1.52.1
-pandas==2.3.3
-numpy==2.1.2
-scikit-learn==1.7.2
-plotly==6.5.0
-seaborn==0.13.2
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+seaborn
