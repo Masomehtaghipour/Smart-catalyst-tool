@@ -5,8 +5,8 @@ import pandas as pd
 # Load data
 # -------------------------
 # Files are in the repo root with these exact names
-DF_TOP_PATH = "SmartCatalog RatioScan TopCandidates master .csv"
-DF_ALL_PATH = "SmartCatalog_RatioScan_full_master.csv"
+DF_TOP_PATH = "Top candidates catalyst.csv"
+DF_ALL_PATH = "Full catalyst.csv"
 
 df_top = pd.read_csv(DF_TOP_PATH)
 df_all = pd.read_csv(DF_ALL_PATH)
